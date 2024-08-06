@@ -4,4 +4,4 @@ Biografía
 Profesión: Desarrollador de Software
 
 Biografía:
-Carlos Tafurt es un apasionado desarrollador de software con más de cinco años de experiencia en el desarrollo de aplicaciones web y móviles. Graduado en Ingeniería Informática por la Universidad de Madrid, Carlos ha trabajado en diversas empresas tecnológicas, destacándose por su habilidad en la programación con JavaScript, Python y Java. Además, es un firme defensor del código abierto y contribuye regularmente a proyectos en GitHub. En su tiempo libre, Carlos disfruta de la lectura, el senderismo y la exploración de nuevas tecnologías.
+Carlos Tafurt es un apasionado desarrollador de software con más de cinco años de experiencia en el desarrollo de aplicaciones web y móviles. Graduado en Ingeniería Informática por la Universidad de Madrid, Carlos ha trabajado en diversas empresas tecnológicas, destacándose por su habilidad en la programación con JavaScript, Python y Java. Además, es un firme defensor del código abierto y contribuye regularmente a  su tiempo libre, Carlos disfruta de la lectura, el senderismo y la exploración de nuevas tecnologías.
